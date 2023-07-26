@@ -1,7 +1,7 @@
 # Perfect Tower 2 FULL GUIDE GAMEPLAY
 ## EVERYTHING will be here!
 ____
-#### Links
+#### All Links:
 * [>>Perfect Tower 2 WIKI<<](https://www.perfecttower2.com/wiki/Main_Page)
 * [>>Video Guide<<](https://www.perfecttower2.com/wiki/Main_Page)
 ____
@@ -50,7 +50,7 @@ $ npm install
 $ npm start
 ```
 
-* [HOME](#links)
+* [HOME](#all-links)
 ## full artifact list
 full artifact list
 first box is the artifact name, 2nd is how to get it, 3rd is what it does
