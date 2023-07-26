@@ -22,37 +22,37 @@ $ npm start
 
 
 ## Full achievement list
-it should go without saying this contains many spoilers
-first box is name, 2nd is how to get it
-1 -  like that's gonna work -  go into region 15 with 0 modules equipped
-2 - konami code - just type the konami code into the arcade (just type it with the screen open, dont need to click any text box)
-3 - you spin me right round -  defeat cylindro during his slam attack 
-4 - botanophobia -  destroy all pyramidas' vines before killing a tesla coil
-5 - not a scratch -  kill cubos jr. without taking damage
-6 -  and so it begins - buy and combine a powerstone
-7 - first producer - make any producer in the factory
-8 - earth drill -  dig down 12742 km in the mine
-9 - to infinity - upgrade a module to t6+
-10 - t10 ore -  get a t10 ore in the factory
-11 - exotic producer -  make an exotic producer
-12 - full potential - make 1 of each t50 powerstone
-13 - born under a lucky star - kill boss 4 without discarding any cards
-14 - bontanist - grow every mutation in the nature experiment
-15 - where did the sun go? - fill the entire powerplant grid up with solar panels and then open the Dyson Sphere 
-16 - pure heart - from reviving Dr. cubical after defeating boss 5's second phase
-17 - final attack - from defeating boss 5's second phase
-18 - perfect tower - defeat boss 5's second phase with 100 modules at t1000+ and with all modules on your bp, only 100 of the modules need upgraded the rest can just be anything but you need them all
-19 - no escape - close the game during the scene where you revive :drCubical: 
-20 - lab #101 - get every lab experiment prestige to #101
-
-secret achievements
-these show up as a little +1 by your achievements and dont give any rewards
-these are either easter eggs or no longer possible achievements
-1 - Halloween 2022 - given to anyone who completed the Halloween 2022 event, no longer possible
-2- spectral breaker - build this light experiment layout and place the mirror with the orange circle to complete the achievement https://media.discordapp.net/attachments/942838704861507645/975087759272312942/unknown.png?width=252&height=235, the achievement requires you to create a light experiment layout that goes through 1000 or 10000 iterations of the code, this layout makes an infinite loop so it easily passes the 10k loops needed
-3 - cylindro killer - kill cyindro 1000 times
-4 - Halloween 2021 - given to everyone who completed all 10 quests, no longer possible
-5 - winter wonderland 2022 - given to everyone who completed the Winter event during 2022, no longer possible
+(by BudeBoy) \
+first box is name, 2nd is how to get it  
+1 -  like that's gonna work -  go into region 15 with 0 modules equipped  
+2 - konami code - just type the konami code into the arcade (just type it with the screen open, dont need to click any text box)  
+3 - you spin me right round -  defeat cylindro during his slam attack   
+4 - botanophobia -  destroy all pyramidas' vines before killing a tesla coil  
+5 - not a scratch -  kill cubos jr. without taking damage  
+6 -  and so it begins - buy and combine a powerstone  
+7 - first producer - make any producer in the factory  
+8 - earth drill -  dig down 12742 km in the mine  
+9 - to infinity - upgrade a module to t6+  
+10 - t10 ore -  get a t10 ore in the factory  
+11 - exotic producer -  make an exotic producer  
+12 - full potential - make 1 of each t50 powerstone  
+13 - born under a lucky star - kill boss 4 without discarding any cards  
+14 - bontanist - grow every mutation in the nature experiment  
+15 - where did the sun go? - fill the entire powerplant grid up with solar panels and then open the Dyson Sphere v
+16 - pure heart - from reviving Dr. cubical after defeating boss 5's second phase  
+17 - final attack - from defeating boss 5's second phase  
+18 - perfect tower - defeat boss 5's second phase with 100 modules at t1000+ and with all modules on your bp, only 100 of the modules need upgraded the rest can just be anything but you need them all  
+19 - no escape - close the game during the scene where you revive :drCubical:   
+20 - lab #101 - get every lab experiment prestige to #101  
+  
+secret achievements  
+these show up as a little +1 by your achievements and dont give any rewards  
+these are either easter eggs or no longer possible achievements  
+1 - Halloween 2022 - given to anyone who completed the Halloween 2022 event, no longer possible  
+2- spectral breaker - build this light experiment layout and place the mirror with the orange circle to complete the achievement https://media.discordapp.net/attachments/942838704861507645/975087759272312942/unknown.png?width=252&height=235, the achievement requires you to create a light experiment layout that goes through 1000 or 10000 iterations of the code, this layout makes an infinite loop so it easily passes the 10k loops needed  
+3 - cylindro killer - kill cyindro 1000 times  
+4 - Halloween 2021 - given to everyone who completed all 10 quests, no longer possible  
+5 - winter wonderland 2022 - given to everyone who completed the Winter event during 2022, no longer possible  
 
 [(GO HOME)](#all-links-compendium) 
 ## Full artifact list
