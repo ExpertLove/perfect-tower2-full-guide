@@ -11,7 +11,7 @@ ____
 * [Full achievement list](#full-achievement-list)
 * [Power Stone requirement](#power-stone-requirement)
 * [Adventure Guide](#adventure-guide)
-* [Military Perks Guide](#military)
+* [Military Perks Guide](#military-perks-guide)
   ____
 
 
