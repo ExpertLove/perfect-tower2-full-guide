@@ -98,6 +98,7 @@ first box is the artifact name, 2nd is how to get it, 3rd is what it does \
 
 ## Power Stone requirement
 All infinity stones have a 50 essence (In workshop-->stairs-->era-->Tab 3) requirement, a "prestige 3 times in (element) experiment in laboratory" requirement and a unique requirement based on the element shown below: \
+ \
 Mine deeper than 100k in mine (Earth) \
 T8+ Boiler or higher obtained in factory (Fire) \
 1k museum neutral boost or greater in museum (Neutral)\
