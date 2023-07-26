@@ -24,7 +24,7 @@ $ npm start
 * [Setup](#setup)
 
 
-[(go home)](#all-links-compendium) 
+[(GO HOME)](#all-links-compendium) 
 ## Full artifact list
 (by BudeBoy) \
 first box is the artifact name, 2nd is how to get it, 3rd is what it does \
