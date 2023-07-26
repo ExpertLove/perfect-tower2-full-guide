@@ -4,6 +4,8 @@ ____
 #### All Links compendium:
 * [>>Perfect Tower 2 WIKI<<](https://www.perfecttower2.com/wiki/Main_Page)
 * [>>Video Guide<<](https://www.perfecttower2.com/wiki/Main_Page)
+
+* [Full artifact list](#full-artifact-list)
 ____
 
 
@@ -23,7 +25,7 @@ $ npm start
 
 
 * [HOME](#all-links-compendium)
-## full artifact list
+## Full artifact list
 (by BudeBoy) \
 first box is the artifact name, 2nd is how to get it, 3rd is what it does \
 1 - broken sword - click on the broken sword in region 10 - unlocks the broken sword town asset \
