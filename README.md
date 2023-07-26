@@ -164,3 +164,5 @@ Essence Purification increases the base damage bonus per elemental essence in th
 Eternity Anvil > Time Warping = Twin Singularity\
 Anvil is great, Eternity Anvil increases anvil range, which is great, pick this first.\
 The other two doesn't matter till MT15\
+
+![Universal][(https://cdn.discordapp.com/attachments/781517486045921291/824265825430274088/SPOILER_unknown.png)]
