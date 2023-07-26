@@ -25,7 +25,7 @@ $ npm start
 * [HOME](#all-links-compendium)
 ## full artifact list
 (by BudeBoy) \
-first box is the artifact name, 2nd is how to get it, 3rd is what it does \
+first box is the artifact name, 2nd is how to get it, 3rd is what it does 
 - 1 - broken sword - click on the broken sword in region 10 - unlocks the broken sword town asset
 - 2 -  sign -  click on the sign in region 6 - increases module drop rate by 1% for each researched artifact 
 3 - chained mannequin - disable the era modules of any element and then kill era enemies of that element (0.25% drop rate per kill) - +300% xp cost research speed in the era research tab +allows you to use gems to instantly finish the xp cost research 
