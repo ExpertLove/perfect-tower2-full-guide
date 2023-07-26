@@ -1,4 +1,4 @@
-## Table of contents
+# PerfectTower 2 FULL GUIDE GAMEPLAY
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
