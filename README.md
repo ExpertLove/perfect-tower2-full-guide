@@ -10,6 +10,7 @@ ____
 * [Full artifact list](#full-artifact-list)
 * [Full achievement list](#full-achievement-list)
 * [Power Stone requirement](#power-stone-requirement)
+* [Adventure Guide](#adventure-guide)
   ____
 
 
@@ -111,7 +112,7 @@ Tier 3 Cylindro Defeated in Statue of Cubos (Universal) \
 12 or more maximised servers in headquarters (Darkness) \
 
 
-## Adventure Primer
+## Adventure Guide
 I'll skip the basics to get to the non-obvious stuff. Almost everything in this game is based on your "current distance" to the middle of the maze, which is how many rooms you would have to cross to get back to the beginning.\
 \
 Your "cleared rooms" are also added in along with your base luck to get "luck factor," which determines odds for getting good things (non-resources). But distance matters much more.\
