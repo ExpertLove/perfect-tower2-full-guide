@@ -1,6 +1,6 @@
 # PerfectTower 2 FULL GUIDE GAMEPLAY
 ## EVERYTHING will be here!
-* [General info]((https://www.perfecttower2.com/wiki/Main_Page)
+[a link](https://github.com/user/repo/blob/branch/other_file.md)
 * [Technologies](#technologies)
 * [Setup](#setup)
 
