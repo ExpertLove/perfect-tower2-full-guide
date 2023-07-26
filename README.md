@@ -50,7 +50,7 @@ $ npm install
 $ npm start
 ```
 
-* [HOME](#all-links)
+* [HOME](#all-links-compendium)
 ## full artifact list
 full artifact list
 first box is the artifact name, 2nd is how to get it, 3rd is what it does
