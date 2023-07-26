@@ -1,7 +1,7 @@
 # Perfect Tower 2 FULL GUIDE GAMEPLAY
 ## EVERYTHING will be here!
 ____
-#### All Links:
+#### All Links compendium:
 * [>>Perfect Tower 2 WIKI<<](https://www.perfecttower2.com/wiki/Main_Page)
 * [>>Video Guide<<](https://www.perfecttower2.com/wiki/Main_Page)
 ____
