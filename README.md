@@ -33,6 +33,7 @@ Neutral: 2x until you have the resources to max, then reset and spec into 5% lev
 Universal: inversion orb then more bounces then the other unique things then more gravity orb effectiveness  
 Gems: 0.5 more dust per second per level of grinder then more seconds on grinder  
 Exotic: things to get more resources for donuts, maybe the red donut for automation, all else matters not.  
+  
 [(GO HOME)](#all-links-compendium) 
 
 ## Full achievement list
@@ -66,7 +67,8 @@ these are either easter eggs or no longer possible achievements
 2- spectral breaker - build this light experiment layout and place the mirror with the orange circle to complete the achievement https://media.discordapp.net/attachments/942838704861507645/975087759272312942/unknown.png?width=252&height=235, the achievement requires you to create a light experiment layout that goes through 1000 or 10000 iterations of the code, this layout makes an infinite loop so it easily passes the 10k loops needed  
 3 - cylindro killer - kill cyindro 1000 times  
 4 - Halloween 2021 - given to everyone who completed all 10 quests, no longer possible  
-5 - winter wonderland 2022 - given to everyone who completed the Winter event during 2022, no longer possible  
+5 - winter wonderland 2022 - given to everyone who completed the Winter event during 2022, no longer possible 
+  
 [(GO HOME)](#all-links-compendium) 
 ## Full artifact list
 (by BudeBoy) \
@@ -89,4 +91,5 @@ first box is the artifact name, 2nd is how to get it, 3rd is what it does \
 16 - Energy Sphere - from killing Cylindro, unknown drop chance (likely 10%) - unlocks the "Energy Sphere" module\
 17 - Carrot - from region 3, click on the snowman's nose a few times - +10% resources per artifact researched\
 18 - Book of Cubimas  - from completing the winder event - +5% resource drops\
+  
 [(GO HOME)](#all-links-compendium) 
