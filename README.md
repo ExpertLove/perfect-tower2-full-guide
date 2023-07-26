@@ -97,15 +97,15 @@ first box is the artifact name, 2nd is how to get it, 3rd is what it does \
 [(GO HOME)](#all-links-compendium) 
 
 ## Power Stone requirement
-All infinity stones have a 50 essence (In workshop-->stairs-->era-->Tab 3) requirement, a "prestige 3 times in (element) experiment in laboratory" requirement and a unique requirement based on the element shown below: /
-Mine deeper than 100k in mine (Earth) /
-T8+ Boiler or higher obtained in factory (Fire) /
-1k museum neutral boost or greater in museum (Neutral) /
-1e10 or more crates in trading post (Air) /
-Total beacon tier of 100 or greater in construction firm (Nature) /
-100M power or more in power plant (Electricity) /
-100 shipments or more in shipyard (Water) /
-Tier 3 Cylindro Defeated in Statue of Cubos (Universal) /
-500 arcade coins or more in arcade (Light) /
-12 or more maximised servers in headquarters (Darkness)  /
+All infinity stones have a 50 essence (In workshop-->stairs-->era-->Tab 3) requirement, a "prestige 3 times in (element) experiment in laboratory" requirement and a unique requirement based on the element shown below: \
+Mine deeper than 100k in mine (Earth) \
+T8+ Boiler or higher obtained in factory (Fire) \
+1k museum neutral boost or greater in museum (Neutral)\
+1e10 or more crates in trading post (Air) \
+Total beacon tier of 100 or greater in construction firm (Nature) \
+100M power or more in power plant (Electricity) \
+100 shipments or more in shipyard (Water) \
+Tier 3 Cylindro Defeated in Statue of Cubos (Universal) \
+500 arcade coins or more in arcade (Light) \
+12 or more maximised servers in headquarters (Darkness) \
 
