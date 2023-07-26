@@ -5,6 +5,7 @@ ____
 * [>>Perfect Tower 2 WIKI<<](https://www.perfecttower2.com/wiki/Main_Page)
 * [>>Video Guide<<](https://www.perfecttower2.com/wiki/Main_Page)
 
+* [Lab prestige list](#lab-prestige-list)
 * [Full artifact list](#full-artifact-list)
 * [Full achievement list](#full-achievement-list)
 ____
@@ -19,7 +20,19 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
-
+## Lab prestige list
+Fire: one of each then heaters
+Water: free upgrades but do less upgrade cost when it will give more upgrades
+Nature: n/a
+Earth:  12% drills
+Electricity: 30% voltage
+Darkness: more particles chance
+Light: 12% more light per beam of same color then one into more light then image cost
+Air: more effective compressors
+Neutral: 2x until you have the resources to max, then reset and spec into 5% levels
+Universal: inversion orb then more bounces then the other unique things then more gravity orb effectiveness
+Gems: 0.5 more dust per second per level of grinder then more seconds on grinder
+Exotic: things to get more resources for donuts, maybe the red donut for automation, all else matters not.
 
 ## Full achievement list
 (by BudeBoy) \
