@@ -24,8 +24,9 @@ $ npm start
 * [Setup](#setup)
 
 
-* [HOME](#all-links-compendium)
+
 ## Full artifact list
+* [GO HOME](#all-links-compendium)
 (by BudeBoy) \
 first box is the artifact name, 2nd is how to get it, 3rd is what it does \
 1 - broken sword - click on the broken sword in region 10 - unlocks the broken sword town asset \
