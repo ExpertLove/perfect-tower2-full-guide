@@ -11,6 +11,7 @@ ____
 * [Full achievement list](#full-achievement-list)
 * [Power Stone requirement](#power-stone-requirement)
 * [Adventure Guide](#adventure-guide)
+* [Military Perks Guide](#military)
   ____
 
 
@@ -136,3 +137,30 @@ There are certain "break-point" distances where various key items and upgrades b
 100 • The limit on Armor goes to 40 and Swords goes to 50. Final 200 skillpoints.\
 A detailed breakdown of this, as well as the strength of enemies per distance, is found at https://docs.google.com/spreadsheets/d/13-jvYlJXHsSpP6Iv2k-Bj1w_Rfnao-bTAPgRXfwUU_Y \
 
+## Military Perks Guide
+**(MT4) Specializations:** \
+Powerplant > Mine > Factory\
+(More Info On Why Below This Text)\
+\
+**(MT 1-3) Group 1:**\
+Backups > Libraries > Improved Conditions
+Backups as first choice since it can help a lot early game by making your modules T1 max every next MT-up, which saves time and resources.\
+Libraries as second choice since it increases town exp gained, won't be that much of use when picked first.\
+Improved Conditions as the third choice basically because worker slots are expensive to get at this point of the game.\
+\
+**(MT5 ) Group 2:**\
+Duplicates = Existence Taxes > Symmetrical Analysis\
+Duplicates is like Backups but your modules will be set to T5 max instead of T1 max, which saves you time and resources making it a good first choice.\
+Existence Taxes increases your total resource drops for each town level, making resource farming better, which makes it also a good first choice.\
+Symmetrical Analysis multiplies resource drops from enemies with your module chance factor, won't be that useful unless you have a big module chance factor.\
+\
+**(MT9) Group 3:**\
+International Experts > Combat Surveillance > Essence Purification\
+International Experts makes town perks use your current military tier x 2 when calculating the total bonus of a perk, making it the best first choice.\
+Combat Surveillance increases your tower testing xp drop rate by your town resource drop rate, which helps a lot since you'll need tower testing xp at era, but not when reaching era 5, making it a good second choice.\
+Essence Purification increases the base damage bonus per elemental essence in the workshop from 1% to 5%, you'll likely use all your essence on getting the modules, not that helpful on era, pick it last.\
+\
+**(MT13) Group 4:**\
+Eternity Anvil > Time Warping = Twin Singularity\
+Anvil is great, Eternity Anvil increases anvil range, which is great, pick this first.\
+The other two doesn't matter till MT15\
