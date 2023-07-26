@@ -2,6 +2,7 @@
 ## EVERYTHING will be here!
 ____
 #### All Links compendium:
+* [>>Official Discord server<<](https://discord.gg/fireswordstudios)
 * [>>Perfect Tower 2 WIKI<<](https://www.perfecttower2.com/wiki/Main_Page)
 * [>>Video Guide<<](https://www.perfecttower2.com/wiki/Main_Page)
 
