@@ -110,3 +110,28 @@ Tier 3 Cylindro Defeated in Statue of Cubos (Universal) \
 500 arcade coins or more in arcade (Light) \
 12 or more maximised servers in headquarters (Darkness) \
 
+
+## Adventure Primer
+I'll skip the basics to get to the non-obvious stuff. Almost everything in this game is based on your "current distance" to the middle of the maze, which is how many rooms you would have to cross to get back to the beginning.\
+\
+Your "cleared rooms" are also added in along with your base luck to get "luck factor," which determines odds for getting good things (non-resources). But distance matters much more.\
+\
+There are certain "break-point" distances where various key items and upgrades become available:\
+1 • No resources are available, making it very easy to get your 2nd sword.\
+2 • The Compass is available. The Compass always points to the center of the maze. Also, the limit on Swords goes to 7.\
+3 • Bombs are available. They deal as much damage as attacking, but with a three turn delay. \
+5 • Skillponts are available. The limit on Armor goes to 1. \
+7 •  Boots are available. Boots reduce the input delay, allowing you (and the enemies) to move faster. This can be dangerous! \
+10 • The Map, Gems and the 1st set of Cards are available. The Map shows the current room, the 8 rooms around you, and room clear status. Limit on Armor goes to 15. \
+14 • The limit on Swords goes to 17.\
+20 • 2nd set of Cards\
+25 • The artifact is available.\
+30 • 3rd set of Cards\
+40 • The 1st GoldenHeart is available. Each one increases your hearts gain, when collecting hearts. Limit on Armor goes to 30 and Swords goes to 39.\
+45 • The EodArmor is available, which protects you from your own bombs.\
+60 • 2nd GoldenHeart is available.\
+80 • 3rd GoldenHeart is available.\
+81 • The Unlimited Key can drop from enemies.\
+100 • The limit on Armor goes to 40 and Swords goes to 50. Final 200 skillpoints.\
+A detailed breakdown of this, as well as the strength of enemies per distance, is found at https://docs.google.com/spreadsheets/d/13-jvYlJXHsSpP6Iv2k-Bj1w_Rfnao-bTAPgRXfwUU_Y \
+
