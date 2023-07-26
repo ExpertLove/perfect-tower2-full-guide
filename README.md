@@ -67,7 +67,6 @@ these are either easter eggs or no longer possible achievements
 3 - cylindro killer - kill cyindro 1000 times  
 4 - Halloween 2021 - given to everyone who completed all 10 quests, no longer possible  
 5 - winter wonderland 2022 - given to everyone who completed the Winter event during 2022, no longer possible  
-
 [(GO HOME)](#all-links-compendium) 
 ## Full artifact list
 (by BudeBoy) \
