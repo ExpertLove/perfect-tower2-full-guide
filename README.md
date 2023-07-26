@@ -6,8 +6,8 @@ ____
 ____
 
 
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [MT1](#MT1)
+* [MT2](#MT2)
 
 ## General info
 This project is simple Lorem ipsum dolor generator.
