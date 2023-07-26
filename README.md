@@ -50,7 +50,7 @@ $ npm install
 $ npm start
 ```
 
-* [HOME](#home)
+* [HOME](#Perfect Tower 2 FULL GUIDE GAMEPLAY)
 ## full artifact list
 full artifact list
 first box is the artifact name, 2nd is how to get it, 3rd is what it does
