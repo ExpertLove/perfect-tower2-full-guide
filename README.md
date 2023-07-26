@@ -26,3 +26,4 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
+### [HOME](#Perfect Tower 2 FULL GUIDE GAMEPLAY)
