@@ -167,3 +167,10 @@ Anvil is great, Eternity Anvil increases anvil range, which is great, pick this 
 The other two doesn't matter till MT15\
 ## Universal experiment solution
 ![Universal](https://cdn.discordapp.com/attachments/781517486045921291/824265825430274088/SPOILER_unknown.png)
+
+## Power plant guide
+The best known setup with Floor 2. Needs "Quantum Grid" to be most effective.\
+```
+1ZVBCgMhDEVP1F7AXTc9QHuBDKaDIIlkIoO37yAUhsJYW8fSbkIk0f/+3xh4RgkeSI+ewXJUEwQPjm6OnCZj08R0RkIBZTEjTNcogyPcYxJcQCNoT6CKkjbavNWVYzXJYuVSB1wuLzLpD/DfCTxT1F5pcp3Qe54fkqXTV+wvL1yWfRirttvt5zL4iO+G3m71E9Umr2vBrb63850YfjuHDv9JNXNPlDs=
+```
+Requires ~2e30 cubes for the pipes, see below for a cheaper option.\
