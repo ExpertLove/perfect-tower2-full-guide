@@ -13,7 +13,8 @@ ____
 * [Adventure Guide](#adventure-guide)
 * [Military Perks Guide](#military-perks-guide)
 * [Universal experiment solution](#universal-experiment-solution)
-  ____
+* [Power Plant guide](#power-plant-guide)
+ ____
 
 
 * [MT1](#MT1)
@@ -168,7 +169,7 @@ The other two doesn't matter till MT15\
 ## Universal experiment solution
 ![Universal](https://cdn.discordapp.com/attachments/781517486045921291/824265825430274088/SPOILER_unknown.png)
 
-## Power plant guide
+## Power Plant guide
 **The best known setup with Floor 2. Needs "Quantum Grid" to be most effective.**
 ```
 1ZVBCgMhDEVP1F7AXTc9QHuBDKaDIIlkIoO37yAUhsJYW8fSbkIk0f/+3xh4RgkeSI+ewXJUEwQPjm6OnCZj08R0RkIBZTEjTNcogyPcYxJcQCNoT6CKkjbavNWVYzXJYuVSB1wuLzLpD/DfCTxT1F5pcp3Qe54fkqXTV+wvL1yWfRirttvt5zL4iO+G3m71E9Umr2vBrb63850YfjuHDv9JNXNPlDs=
@@ -177,11 +178,11 @@ Requires ~2e30 cubes for the pipes, see below for a cheaper option.
 Look in "technology" and click on things if you haven't done that yet. The battery "deep link" upgrades boost all power capacity, which is why you want a balance for maximum capacity.\
 It is very important that the two pipe grids be separated by the gas tank. If they are joined, they will become a single grid, which is only capable of supplying 12.5 (effectively 12) gas turbines at a time.\
 \
-**Cheaper design: Not quite as effective as the best, but only costs e20 resources.**\ 
+**Cheaper design: Not quite as effective as the best, but only costs e20 resources.**
 ```
 K8gvTy0qyEnMK9HLyU9MyS8tsc7JL1coSi3OLy1KTi22Tqkszs9zT81LLUosyS+yTk8sDiktSsrMSx1BMgWZBdgJGqghxhVFqSlOiSUlqUWVQ0FnZWoOMEnBNBMIGCRrKFRJwGlYXEW8ZnS76aFzEIclkB8MFE9MHxI6wURSTmkqkYFDTaUEnIahf7BrHZxhSX5ypsBSSuN+wOuX4S0DAA==
 ```
-**No-dyson design: For if you haven't gotten Power Plant floor 2 yet.**\ 
+**No-dyson design: For if you haven't gotten Power Plant floor 2 yet.**
 ```
 K8gvTy0qyEnMK9HLyU9MyS8tsc7LV0ipLM7Psy5KTXFKLClJLaq0LsgsSMVNpCcWh5QWJWXmEcHEbxKYSMopTYVZTIwbCJhOtOXDz15SY4M4l5BnAVEOwCpD0FUkRgQ58UapG2BqgkvyixLTictLwyYEyEsaA55iSYtcZJdUpubk5JeTXHhSw2r8lg2QjVSJBKy2AwA=
 ```
