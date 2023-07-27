@@ -195,8 +195,6 @@ A ⁠mt-6-and-7 player's guide to getting the dreaded 100b waves(the blueprint a
 2. clear as many normal mode difficulties(the mode to clear wave 100; every difficulty counts separate, even if on same region, for a total of 90 locations) as you can. this is to make your run faster overall because it buffs the software "wave storm"\
 
 3. restart every 5 minutes(real time, click the bomb icon bottom left and press "restart"). as of the infinity rework update, the software got buffed, and you reset forever (note: if you are using my blueprint, once you start dying dont worry about resets) . this is to get the new affect from a software called "wave catalyst".\
-\
-make sure to complete all possible challenges, because challenge 3-4 buffs wave streaming: +1% factor for every completed challenge
+make sure to complete all possible challenges, because challenge 3-4 buffs wave streaming: +1% factor for every completed challenge\
 please make sure you have at least module level 12, and a even amount of at least tier 8 stones in museum\
-\
 the push to 100b itself should take ~30m-1h. good luck\
