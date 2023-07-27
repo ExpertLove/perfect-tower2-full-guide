@@ -16,17 +16,6 @@ ____
 * [Power Plant guide](#power-plant-guide)
 * [100b waves Guide](#100b-waves-guide)
  ____
-
-
-* [MT1](#MT1)
-* [MT2](#MT2)
-
-
-```
-$ cd ../lorem
-$ npm install
-$ npm start
-```
 ## Lab prestige list
 Fire: one of each then heaters  
 Water: free upgrades but do less upgrade cost when it will give more upgrades  
