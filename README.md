@@ -189,7 +189,7 @@ K8gvTy0qyEnMK9HLyU9MyS8tsc7LV0ipLM7Psy5KTXFKLClJLaq0LsgsSMVNpCcWh5QWJWXmEcHEbxKY
 ```
 ## 100b waves Guide
 A ⁠mt-6-and-7 player's guide to getting the dreaded 100b waves(the blueprint also works for reaching mt7)™️\
-/
+\
 1.Turn down as many graphical setting as you can, to raise fps(increases enemy spawn speed).  check here for a BP and AI for this, which WILL die from time to time at higher waves, it will still progress fast though.( ⁠module-blueprints⁠mt6-7 wave goal blueprint ). for the 100b BP build(the blueprint string goes into workshop BLUEPRINTS tab, NOT AI) type the command !modules in the discord to find missing module locations]\
 \
 2. clear as many normal mode difficulties(the mode to clear wave 100; every difficulty counts separate, even if on same region, for a total of 90 locations) as you can. this is to make your run faster overall because it buffs the software "wave storm"\
