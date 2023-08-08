@@ -9,6 +9,7 @@ ____
 * [>>My New Video Guide<<](https://youtu.be/8pZG0Ws0zgg)
 #### Content:
 * [Lab prestige list](#lab-prestige-list)
+* [All module list](https://www.perfecttower2.com/wiki/Modules)
 * [Full artifact list](#full-artifact-list)
 * [Full achievement list](#full-achievement-list)
 * [Power Stone requirement](#power-stone-requirement)
