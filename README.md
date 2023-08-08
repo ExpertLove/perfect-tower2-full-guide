@@ -106,7 +106,7 @@ Total beacon tier of 100 or greater in construction firm (Nature) \
 100M power or more in power plant (Electricity) \
 100 shipments or more in shipyard (Water) \
 Tier 3 Cylindro Defeated in Statue of Cubos (Universal) \
-500 arcade coins or more in arcade (Light) \
+1000 arcade coins or more in arcade (Light) \
 12 or more maximised servers in headquarters (Darkness) \
 
 
