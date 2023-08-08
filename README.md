@@ -107,21 +107,6 @@ first box is the artifact name, 2nd is how to get it, 3rd is what it does \
   
 [(GO HOME)](#all-links-compendium) 
 
-## Power Stone requirement
-All infinity stones have a 50 essence (In workshop-->stairs-->era-->Tab 3) requirement, a "prestige 3 times in (element) experiment in laboratory" requirement and a unique requirement based on the element shown below: \
- \
-Mine deeper than 100k in mine (Earth) \
-T8+ Boiler or higher obtained in factory (Fire) \
-1k museum neutral boost or greater in museum (Neutral)\
-1e10 or more crates in trading post (Air) \
-Total beacon tier of 100 or greater in construction firm (Nature) \
-100M power or more in power plant (Electricity) \
-100 shipments or more in shipyard (Water) \
-Tier 3 Cylindro Defeated in Statue of Cubos (Universal) \
-1000 arcade coins or more in arcade (Light) \
-12 or more maximised servers in headquarters (Darkness) \
-
-
 ## Adventure Guide
 I'll skip the basics to get to the non-obvious stuff. Almost everything in this game is based on your "current distance" to the middle of the maze, which is how many rooms you would have to cross to get back to the beginning.\
 \
@@ -176,6 +161,10 @@ The other two doesn't matter till MT15\
 ## Universal experiment solution
 ![Universal](https://cdn.discordapp.com/attachments/781517486045921291/824265825430274088/SPOILER_unknown.png)
 
+## Nature Experiment Solution
+Nature Experiment 36 module solution (do in turn):
+https://drive.google.com/file/d/1VVZd32hNj6bcfHXToVKsX8lIBKoD-ORr/view?usp=sharing
+
 ## Power Plant guide
 **The best known setup with Floor 2. Needs "Quantum Grid" to be most effective.**
 ```
@@ -205,11 +194,6 @@ make sure to complete all possible challenges, because challenge 3-4 buffs wave 
 please make sure you have at least module level 12, and a even amount of at least tier 8 stones in museum \
 the push to 100b itself should take ~30m-1h. good luck
 
-
-## Nature Experiment Solution
-Nature Experiment 36 module solution (do in turn):
-https://drive.google.com/file/d/1VVZd32hNj6bcfHXToVKsX8lIBKoD-ORr/view?usp=sharing
-
 ## 100B Blueprint
 For first beat 100b wave
 Blueprint:
@@ -232,9 +216,26 @@ AI script:
 ```
 C0FsbENhdDpBQ2F0AgAAAAZ3YWtldXANZ2FtZS5uZXdyb3VuZAEAAAATZ2FtZS5pc1Rvd2VyVGVzdGluZxYAAAAOZ2VuZXJpYy5nb3RvaWYIY29uc3RhbnQCEAAAABFjb21wYXJpc29uLnN0cmluZxFnbG9iYWwuc3RyaW5nLmdldAhjb25zdGFudAQUPHNpemU9MCU+QUNhdFRlc3RpbmcIY29uc3RhbnQEAj09CGNvbnN0YW50BBJUZXN0aW5nPHNpemU9MTAwJT4RZ2xvYmFsLnN0cmluZy5zZXQIY29uc3RhbnQEFDxzaXplPTAlPkFDYXRUZXN0aW5nCGNvbnN0YW50BBJUZXN0aW5nPHNpemU9MTAwJT4PZ2VuZXJpYy5leGVjdXRlCGNvbnN0YW50BBJBbGxDYXQ6QUNhdC5Cb29ibGUPZ2VuZXJpYy5leGVjdXRlCGNvbnN0YW50BA9BbGxDYXQ6V09PVC5ERXMOZ2VuZXJpYy5nb3RvaWYIY29uc3RhbnQCBwAAABFjb21wYXJpc29uLmRvdWJsZQx0b3dlci5oZWFsdGgIY29uc3RhbnQBAQhjb25zdGFudAQBPAhjb25zdGFudAMAAAAAAADgPxd0b3dlci5tb2R1bGUudXNlaW5zdGFudBhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQEDnNhY3JpZmljZS5kYXJrDmdlbmVyaWMuZ290b2lmCGNvbnN0YW50AgkAAAAOY29tcGFyaXNvbi5pbnQUdG93ZXIuYnVmZnMubmVnYXRpdmUIY29uc3RhbnQEAjw9CGNvbnN0YW50AgAAAAAXdG93ZXIubW9kdWxlLnVzZWluc3RhbnQYZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BAxzcGVsbC5kaXNwZWwXdG93ZXIubW9kdWxlLnVzZWluc3RhbnQYZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA9zcGVsbC5tdWx0aXNob3QXdG93ZXIubW9kdWxlLnVzZWluc3RhbnQYZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BBFzcGVsbC5zdXBlcmJvdW5jZRd0b3dlci5tb2R1bGUudXNlaW5zdGFudBhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQED3NwZWxsLnNub3dzdG9ybRd0b3dlci5tb2R1bGUudXNlaW5zdGFudBhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQEDXRvd2VyLnN1cGVyLjEXdG93ZXIubW9kdWxlLnVzZWluc3RhbnQYZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BA10b3dlci5zdXBlci4yF3Rvd2VyLm1vZHVsZS51c2VpbnN0YW50GGdhbWUubW9kdWxlLmFjdGl2ZS5pbmRleAhjb25zdGFudAQNYWlyLmh1cnJpY2FuZRd0b3dlci5tb2R1bGUudXNlaW5zdGFudBhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQED3NwZWxsLmF3YXJlbmVzcxd0b3dlci5tb2R1bGUudXNlaW5zdGFudBhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQEC3NwZWxsLnJhZGFyDmdlbmVyaWMuZ290b2lmCGNvbnN0YW50AgUAAAATZ2FtZS5pc1Rvd2VyVGVzdGluZwxnbG9iYWwudW5zZXQIY29uc3RhbnQEFDxzaXplPTAlPkFDYXRUZXN0aW5nDGdlbmVyaWMuc3RvcAhjb25zdGFudAQSQWxsQ2F0OkFDYXQuQm9vYmxlDGdlbmVyaWMuc3RvcAhjb25zdGFudAQPQWxsQ2F0OldPT1QuREVzD2dlbmVyaWMuZXhlY3V0ZQhjb25zdGFudAQSQWxsQ2F0OkFDYXQuQm9vYmxlD2dlbmVyaWMuZXhlY3V0ZQhjb25zdGFudAQPQWxsQ2F0OldPT1QuREVz;D0FsbENhdDpXT09ULkRFcwAAAAABAAAAE2dhbWUuaXNUb3dlclRlc3RpbmcZAAAAEGdhbWUudXBncmFkZS5lcmEIY29uc3RhbnQEBmhlYWx0aAhjb25zdGFudAIsDwEAEGdhbWUudXBncmFkZS5lcmEIY29uc3RhbnQEBmRhbWFnZQhjb25zdGFudAIsDwEADmdlbmVyaWMuZ290b2lmCGNvbnN0YW50AgEAAAARY29tcGFyaXNvbi5kb3VibGUIZ2FtZS5lcmEIY29uc3RhbnQEATwIY29uc3RhbnQDAAAAAAAA8D8XdG93ZXIubW9kdWxlLnVzZWluc3RhbnQYZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BBBiYXJyaWVyLnRlbXBvcmFsDmdlbmVyaWMuZ290b2lmCGNvbnN0YW50AgEAAAARY29tcGFyaXNvbi5kb3VibGUJcGxheWVyLnhwCGNvbnN0YW50BAE8FWdhbWUuZGlzYWJsZS5lcmEuY29zdAhjb25zdGFudAQLZWxlY3RyaWNpdHkQZ2FtZS5kaXNhYmxlLmVyYQhjb25zdGFudAQLZWxlY3RyaWNpdHkOZ2VuZXJpYy5nb3RvaWYIY29uc3RhbnQCAQAAABFjb21wYXJpc29uLmRvdWJsZQlwbGF5ZXIueHAIY29uc3RhbnQEATwVZ2FtZS5kaXNhYmxlLmVyYS5jb3N0CGNvbnN0YW50BAhkYXJrbmVzcxBnYW1lLmRpc2FibGUuZXJhCGNvbnN0YW50BAhkYXJrbmVzcw5nZW5lcmljLmdvdG9pZghjb25zdGFudAIBAAAAEWNvbXBhcmlzb24uZG91YmxlCXBsYXllci54cAhjb25zdGFudAQBPBVnYW1lLmRpc2FibGUuZXJhLmNvc3QIY29uc3RhbnQECXVuaXZlcnNhbBBnYW1lLmRpc2FibGUuZXJhCGNvbnN0YW50BAl1bml2ZXJzYWwOZ2VuZXJpYy5nb3RvaWYIY29uc3RhbnQCAQAAABFjb21wYXJpc29uLmRvdWJsZQlwbGF5ZXIueHAIY29uc3RhbnQEATwVZ2FtZS5kaXNhYmxlLmVyYS5jb3N0CGNvbnN0YW50BAZuYXR1cmUQZ2FtZS5kaXNhYmxlLmVyYQhjb25zdGFudAQGbmF0dXJlDmdlbmVyaWMuZ290b2lmCGNvbnN0YW50AgEAAAARY29tcGFyaXNvbi5kb3VibGUJcGxheWVyLnhwCGNvbnN0YW50BAE8FWdhbWUuZGlzYWJsZS5lcmEuY29zdAhjb25zdGFudAQFbGlnaHQQZ2FtZS5kaXNhYmxlLmVyYQhjb25zdGFudAQFbGlnaHQOZ2VuZXJpYy5nb3RvaWYIY29uc3RhbnQCAQAAABFjb21wYXJpc29uLmRvdWJsZQlwbGF5ZXIueHAIY29uc3RhbnQEATwVZ2FtZS5kaXNhYmxlLmVyYS5jb3N0CGNvbnN0YW50BANhaXIQZ2FtZS5kaXNhYmxlLmVyYQhjb25zdGFudAQDYWlyDmdlbmVyaWMuZ290b2lmCGNvbnN0YW50AgEAAAARY29tcGFyaXNvbi5kb3VibGUJcGxheWVyLnhwCGNvbnN0YW50BAE8FWdhbWUuZGlzYWJsZS5lcmEuY29zdAhjb25zdGFudAQEZmlyZRBnYW1lLmRpc2FibGUuZXJhCGNvbnN0YW50BARmaXJlDmdlbmVyaWMuZ290b2lmCGNvbnN0YW50AgEAAAARY29tcGFyaXNvbi5kb3VibGUJcGxheWVyLnhwCGNvbnN0YW50BAE8FWdhbWUuZGlzYWJsZS5lcmEuY29zdAhjb25zdGFudAQFd2F0ZXIQZ2FtZS5kaXNhYmxlLmVyYQhjb25zdGFudAQFd2F0ZXIOZ2VuZXJpYy5nb3RvaWYIY29uc3RhbnQCAQAAABFjb21wYXJpc29uLmRvdWJsZQlwbGF5ZXIueHAIY29uc3RhbnQEATwVZ2FtZS5kaXNhYmxlLmVyYS5jb3N0CGNvbnN0YW50BAVlYXJ0aBBnYW1lLmRpc2FibGUuZXJhCGNvbnN0YW50BAVlYXJ0aA5nZW5lcmljLmdvdG9pZghjb25zdGFudAIBAAAAEWNvbXBhcmlzb24uZG91YmxlCXBsYXllci54cAhjb25zdGFudAQBPBVnYW1lLmRpc2FibGUuZXJhLmNvc3QIY29uc3RhbnQEB25ldXRyYWwQZ2FtZS5kaXNhYmxlLmVyYQhjb25zdGFudAQHbmV1dHJhbAxnZW5lcmljLmdvdG8IY29uc3RhbnQCAQAAAA==;EkFsbENhdDpBQ2F0LkJvb2JsZQAAAAAAAAAAAwAAABd0b3dlci5tb2R1bGUudXNlaW5zdGFudBhnYW1lLm1vZHVsZS5hY3RpdmUuaW5kZXgIY29uc3RhbnQEEGdvb2dsZS5pbmZsdWVuY2URZ2VuZXJpYy53YWl0dW50aWwRY29tcGFyaXNvbi5kb3VibGUVdG93ZXIubW9kdWxlLmNvb2xkb3duGGdhbWUubW9kdWxlLmFjdGl2ZS5pbmRleAhjb25zdGFudAQQZ29vZ2xlLmluZmx1ZW5jZQhjb25zdGFudAQCPD0IY29uc3RhbnQDAAAAAAAAAAAXdG93ZXIubW9kdWxlLnVzZWluc3RhbnQYZ2FtZS5tb2R1bGUuYWN0aXZlLmluZGV4CGNvbnN0YW50BBBnb29nbGUuaW5mbHVlbmNl
 ```
+
+## Power Stone requirement
+All infinity stones have a 50 essence (In workshop-->stairs-->era-->Tab 3) requirement, a "prestige 3 times in (element) experiment in laboratory" requirement and a unique requirement based on the element shown below: \
+ \
+Mine deeper than 100k in mine (Earth) \
+T8+ Boiler or higher obtained in factory (Fire) \
+1k museum neutral boost or greater in museum (Neutral)\
+1e10 or more crates in trading post (Air) \
+Total beacon tier of 100 or greater in construction firm (Nature) \
+100M power or more in power plant (Electricity) \
+100 shipments or more in shipyard (Water) \
+Tier 3 Cylindro Defeated in Statue of Cubos (Universal) \
+1000 arcade coins or more in arcade (Light) \
+12 or more maximised servers in headquarters (Darkness) \
+
 ## Infinity push and farm blueprints
 I'm too lazy to copy all this, everything is written in great detail in the discord! \
 https://discord.com/channels/488444879836413975/1094013225915396127
+
+
 ## How to get infinity
 Tutorial for getting to the infinities needed for mt12 to mt14.\
 Step 1: Get all regions and difficulties (90/90) to era 1 to get the wave horizon boost to its max. Also beat all of the challenges in easy mode for c3-4. Get a few accel boosters from factory as well. Also throw workers at the arcade for coins, this won't help you now but it's best for you to do. \
