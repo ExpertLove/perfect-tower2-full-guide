@@ -247,7 +247,7 @@ Step 3: Wait for about an hour (2.5 trillion accel). After you do that activate 
 Step 4: Wait until infinity 2, you may turn on crit wave jump after you get to inf 1. This may take an hour though it might be a little longer depending on the blueprint.\
 Step 5: Get to mt13 and get the new software and the anvil perk, you no longer need to farm accel so just do a normal run.\
 Step 6: After you get to mt14 (ten regions to infinity 1 and infinity 5 in one place) get all regions and difficulties to inf 1 to take full advantage of era horizon & era tunneling.\
-Step 7: Now you are in mt15
+Step 7: Now you are in mt15\
 [(GO HOME)](#content) 
 ## All Challenge no hard
 (need ~600% nature on museum and divide damage in Power Plant floor 2)\
@@ -328,7 +328,7 @@ QzMtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwud2F0ZXI7c2hlbGwuZGFya25lc3M7cmVzaXN0YW5j
 ```
 YzMtNiBoYXJkO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO2ZvdW5kYXRpb24ubWFyYmxlO2RlZmVuc2UuYnVsd2FyaztyZWZsZWN0LndpbmNlO25hdHVyZS5ncm93dGg7c2hpZWxkLmRpdmlzaW9u
 ```
-[(GO HOME)](#content) 
+[(GO HOME)](#content) \
 **UNDERGROUND**\
 4-1
 ```
