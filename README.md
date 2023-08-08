@@ -17,7 +17,7 @@ ____
 * [Universal experiment solution](#universal-experiment-solution)
 * [Power Plant guide](#power-plant-guide)
 * [100b waves Guide](#100b-waves-guide)
-* * [MT 1](#mt1)
+* [MT 1](#mt-1)
  ____
 ## Lab prestige list
 Fire: one of each then heaters  
