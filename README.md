@@ -1,5 +1,5 @@
 # Perfect Tower 2 FULL GUIDE GAMEPLAY
-## EVERYTHING will be here!
+## EVERYTHING will be here! WARNING! SPOILERS HERE!
 big thanks for all content and tips: WootImNoob, d0sboots, Tak, bluecat, BöshiBöshi, Nessl0w BudEBoy and some more cool people $)
 ____
 #### Best Links compendium:
