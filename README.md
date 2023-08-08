@@ -1,5 +1,6 @@
 # Perfect Tower 2 FULL GUIDE GAMEPLAY
 ## EVERYTHING will be here!
+big thanks for all content and tips: WootImNoob, d0sboots, Tak, bluecat, BöshiBöshi, Nessl0w BudEBoy and some more cool people $)
 ____
 #### All Links compendium:
 * [>>Official Discord server<<](https://discord.gg/fireswordstudios)
