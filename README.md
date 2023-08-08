@@ -20,6 +20,12 @@ ____
 * [100b waves Guide](#100b-waves-guide)
 * [Flying Monkey script](#flying-monkey-script)
 * [Nature Experiment All modules](#nature-experiment-solution)
+* [100B Blueprint](#100b-blueprint)
+* [90/90 era/inf blueprint](#90/90-era/inf-blueprint)
+* [Infinity push and farm blueprints](#infinity-push-and-farm-blueprints)
+* [How to get infinity](#how-to-get-infinity)
+* [All challenge (no hard) solution](#all-challenge-(no hard)-solution)
+* [All challenge HARD](https://github.com/Blueturbo47/bluecats-PerfectTower2-comp./blob/main/Challenges/Hardmode/Pre%20Era/README.md)
  ____
 ## Lab prestige list
 Fire: one of each then heaters  
@@ -200,3 +206,98 @@ the push to 100b itself should take ~30m-1h. good luck
 ## Nature Experiment Solution
 Nature Experiment 36 module solution (do in turn):
 https://drive.google.com/file/d/1VVZd32hNj6bcfHXToVKsX8lIBKoD-ORr/view?usp=sharing
+
+## 100B Blueprint
+For first beat 100b wave:
+
+## 90/90 era/inf blueprint
+
+## Infinity push and farm blueprints
+
+## How to get infinity
+Tutorial for getting to the infinities needed for mt12 to mt14.\
+Step 1: Get all regions and difficulties (90/90) to era 1 to get the wave horizon boost to its max. Also beat all of the challenges in easy mode for c3-4. Get a few accel boosters from factory as well. Also throw workers at the arcade for coins, this won't help you now but it's best for you to do. \
+Step 2: Start a run but do not start with no bounds, era surge, era burst or crit wave jump, this will allow you to take full advantage of wave horizon that you just got with 90/90 era 1. The reason you do this is because you keep any wave accel gained during that run unless you turn off wave streaming and it allows you to use wave horizon.\
+Step 3: Wait for about an hour (2.5 trillion accel). After you do that activate era surge and burst to start going fast.\
+Step 4: Wait until infinity 2, you may turn on crit wave jump after you get to inf 1. This may take an hour though it might be a little longer depending on the blueprint.\
+Step 5: Get to mt13 and get the new software and the anvil perk, you no longer need to farm accel so just do a normal run.\
+Step 6: After you get to mt14 (ten regions to infinity 1 and infinity 5 in one place) get all regions and difficulties to inf 1 to take full advantage of era horizon & era tunneling.\
+Step 7: Now you are in mt15
+
+## All challenge (no hard) solution
+(need ~600% nature on museum and divide damage in Power Plant floor 2)\
+(sometimes need to turn off wave streaming)\
+**FOREST**\
+#1\
+QzEtMTtmb3VuZGF0aW9uLmRpYW1vbmQ7YXR0YWNrLnNwZWVkO2F0dGFjay5ib3VuY2U7YXR0YWNrLm11bHRpc2hvdDthdHRhY2submF0dXJlO2ltcGV0dXMubmF0dXJl\
+#2\
+QzEtMjtiYXJyaWVyLmZpcmU7Zm91bmRhdGlvbi5kaWFtb25kO3NoaWVsZC5iYXNpYztiYXJyaWVyLm5hdHVyZTtzaGVsbC5lYXJ0aA==\
+#3\
+QzEtMztmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwubmF0dXJlO2V4Y2hhbmdlLm5hdHVyZTtzaGllbGQuYmFzaWM7YmFycmllci5maXJl\
+#4\
+QzEtNDthdHRhY2suaW1wZXR1czthdHRhY2suc3BlZWQ7YXR0YWNrLm11bHRpc2hvdDthdHRhY2submF0dXJlO2ltcGV0dXMubmF0dXJl\
+#5 need era module\
+Y2hhbGxlbmdlO2ZvdW5kYXRpb24uZGlhbW9uZDthdXJhLmhlYXJ0c3RvcHBlcjtyZWdlbmVyYXRpb24ucmVsYXRpdmU7YXR0YWNrLnVuaXZlcnNhbDthdHRhY2suc3BlZWQ7YW1wbGlmaWVyLm5ldXRyYWw=\
+#6\
+YzEtNjtkZWZlbnNlLnJlZmxlY3Q7Zm91bmRhdGlvbi5ncmFuaXRlO3NoZWxsLmVhcnRoO3NoZWxsLm5hdHVyZQ==\
+
+**DESERT**\
+#1\
+YzItMTtzaGVsbC5saWdodDtmb3VuZGF0aW9uLmRpYW1vbmQ7YmFycmllci5uYXR1cmU7c2hpZWxkLmJhc2ljO2JvbnVzLm9mZmVuc2l2ZTtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtib251cy5kZWZlbnNpdmU=\
+#2 \
+YzItMjthdHRhY2suc3BlZWQ7YXR0YWNrLm11bHRpc2hvdDthdHRhY2sucmFwaWRmaXJlO2F0dGFjay5ib3VuY2U7YXR0YWNrLmZpcmU7YXR0YWNrLmJvdW5jZS5nYWlhO2F0dGFjay5pbXBldHVzO2ltcGV0dXMuZmlyZQ==\
+#3\
+RGVzZXJ0IENoYWwgMztmb3VuZGF0aW9uLmRpYW1vbmQ7YmFycmllci5uYXR1cmU7c2hpZWxkLmJhc2lj\
+#4\
+QzItNDtiYXJyaWVyLm5hdHVyZTtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVzaXN0YW5jZS5lbGVtZW50YWw7c2hpZWxkLmJhc2ljO2ZvdW5kYXRpb24uc3RlZWw=\
+#5 \
+QzItNTtmb3VuZGF0aW9uLmRpYW1vbmQ7ZGVmZW5zZS5yZWZsZWN0O2F0dGFjay5uYXR1cmVzdG91Y2g7YXR0YWNrLnNwZWVkO3NoaWVsZC51bml2ZXJzYWw=\
+#6 Spam Firestorm in x1 speed\
+YzItNjtzcGVsbC5maXJlc3Rvcm07c2hpZWxkLnVuaXZlcnNhbDtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtlbmVyZ3kuZmxvdztlbmVyZ3kucmVjeWNsaW5nO2VuZXJneS5zdW47ZW5lcmd5Lm1vb24=\
+
+**WINTER**\
+C3-1\
+QzMtMTthdHRhY2subXVsdGlzaG90O2F0dGFjay5zcGVlZDthdHRhY2suYm91bmNlO2F0dGFjay5pbXBldHVzO2F0dGFjay5yYXBpZGZpcmU7c3BsYXNoLmFkdmFuY2VkO2F0dGFjay5uYXR1cmU7aW1wZXR1cy5uYXR1cmU7YXR0YWNrLm5hdHVyZXN0b3VjaDtmb3VuZGF0aW9uLmRpYW1vbmQ=\
+C3-2\
+QzMtMjtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO3NoZWxsLndhdGVyO3NoZWxsLmFpcjtmb3VuZGF0aW9uLm1hZ21hO2JhcnJpZXIuZmlyZTtzaGllbGQuYmFzaWM7cmVzaXN0YW5jZS5lbGVtZW50YWw7cmVzaXN0YW5jZS53YXRlcjtyZXNpc3RhbmNlLmFpcg==\
+C3-3\
+QzMtMztmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwud2F0ZXI7c2hlbGwuZGFya25lc3M7cmVnZW5lcmF0aW9uLnJlbGF0aXZlO2JhcnJpZXIubmF0dXJlO3NoaWVsZC5iYXNpYw==\
+C3-4\
+QzMtNDtmb3VuZGF0aW9uLmdyYW5pdGU7Zm91bmRhdGlvbi5kaWFtb25kO2V4Y2hhbmdlLndhdGVyO2V4Y2hhbmdlLmRhcmtuZXNzO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtyZXNpc3RhbmNlLndhdGVyO3Jlc2lzdGFuY2UuZGFya25lc3M7cmVzaXN0YW5jZS5lbGVtZW50YWw7c2hlbGwud2F0ZXI7c2hlbGwuZGFya25lc3M7YmFycmllci5uYXR1cmU7YXVyYS5oZWFydHN0b3BwZXI7YXVyYS51bmhvbHk7c2hpZWxkLmJhc2ljO2F0dGFjay5jb21idXN0aW9u\
+C3-5 very slow get post era modules\
+QzMtNTtmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwud2F0ZXI7c2hlbGwuZGFya25lc3M7cmVzaXN0YW5jZS5lbGVtZW50YWw7Zm91bmRhdGlvbi5ncmFuaXRlO2F1cmEuaGVhcnRzdG9wcGVyO3NoZWxsLmVhcnRoO2F0dGFjay5jb21idXN0aW9uO3NvdWwuaGFydmVzdGluZzthdHRhY2suc3BlZWQ=\
+3-6 - very hard, get in post era solution\
+YzMtNiBoYXJkO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO2ZvdW5kYXRpb24ubWFyYmxlO2RlZmVuc2UuYnVsd2FyaztyZWZsZWN0LndpbmNlO25hdHVyZS5ncm93dGg7c2hpZWxkLmRpdmlzaW9u\
+
+**UNDERGROUND**\
+4-1\
+QzQtMTtmb3VuZGF0aW9uLmRpYW1vbmQ7YmFycmllci5uYXR1cmU7c2hpZWxkLmJhc2lj\
+4-2\
+QzQtMjtmb3VuZGF0aW9uLm1hZ21hO2ZvdW5kYXRpb24uZGlhbW9uZDtzaGVsbC5lYXJ0aDtzaGVsbC5kYXJrbmVzczthdXJhLnVuaG9seTtyZXNpc3RhbmNlLmVsZW1lbnRhbDtyZXNpc3RhbmNlLmVhcnRoO2F1cmEuaGVhcnRzdG9wcGVyO3NoaWVsZC5iYXNpYztiYXJyaWVyLm5hdHVyZQ==\
+4-3\
+QzQtMzthdHRhY2suc3BlZWQ7YXR0YWNrLmJhc2ljO2F0dGFjay5tdWx0aXNob3Q7YXR0YWNrLmltcGV0dXM7c3RlaW5pLmNoYWluZWQuYmFsbDthdHRhY2suZGFya25lc3M7YXR0YWNrLmVhcnRoO2F0dGFjay5ib3VuY2U7Y3JpdC5iYXNpYztmb3VuZGF0aW9uLmdyYW5pdGU=\
+4-4\
+YzQtNCBoYXJkO2ZvdW5kYXRpb24uZ3Jhbml0ZTthdHRhY2subXVsdGlzaG90O3N0ZWluaS5jaGFpbmVkLmJhbGw7ZmlyZS5pbmNpbmVyYXRpb247YXR0YWNrLmltcGV0dXM7aW1wZXR1cy5maXJlO2F0dGFjay5zcGVlZDthdHRhY2sucmFwaWRmaXJlO2F0dGFjay5ib3VuY2U7YXR0YWNrLmZpcmU=\
+4-5\
+QzQtNTthdXJhLnVuaG9seTthdXJhLmhlYXJ0c3RvcHBlcjthdXJhLmZyb3N0O2ZvdW5kYXRpb24ubWFnbWE7YXR0YWNrLnNwZWVkO2F0dGFjay5tdWx0aXNob3Q7YXR0YWNrLmJhc2g7YXR0YWNrLnNwYXJrO3NvdWwuaGFydmVzdGluZzthdHRhY2suaW1wZXR1cztpbXBldHVzLmZpcmU7ZmlyZS5pbmNpbmVyYXRpb247YXR0YWNrLmJvdW5jZTthdHRhY2suZmlyZTthdHRhY2sucmFwaWRmaXJl\
+4-6\
+QzQtNjtmb3VuZGF0aW9uLmRpYW1vbmQ7c2hlbGwuZGFya25lc3M7c2hlbGwuZWFydGg7ZW5lcmd5LmJhc2ljO2VuZXJneS5yZWdlbmVyYXRpb247ZW5lcmd5LmZsb3c7c3BlbGwuZmlyZXN0b3Jt\
+
+**VOLCANO**\
+5-1\
+QyA1LTE7Zm91bmRhdGlvbi5kaWFtb25kO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtmb3VuZGF0aW9uLmdyYW5pdGU7YXVyYS5oZWFydHN0b3BwZXI7c2hlbGwuZmlyZTtyZXNpc3RhbmNlLmZpcmU7ZXhjaGFuZ2UuZmlyZQ==\
+5-2\
+QzUtMjtmb2N1cy53YXRlcjtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVzaXN0YW5jZS5lbGVtZW50YWw7ZXhjaGFuZ2UuZmlyZTtleGNoYW5nZS5lYXJ0aDtleGNoYW5nZS51bml2ZXJzYWw7Zm91bmRhdGlvbi5tYXJibGU7YXVyYS5kcnluZXNzO2JhcnJpZXIud2F0ZXI7c2hpZWxkLmJhc2lj\
+5-3\
+QzUtMztmb3VuZGF0aW9uLmRpYW1vbmQ7Zm91bmRhdGlvbi5ncmFuaXRlO2JhcnJpZXIubGlnaHQ7c2hpZWxkLmJhc2ljO2F0dGFjay5zcGVlZDthdHRhY2suZWFydGg7YXR0YWNrLmJvdW5jZTthdHRhY2subXVsdGlzaG90O3N0ZWluaS5jaGFpbmVkLmJhbGw7Ym9udXMuZGVmZW5zaXZlO3NoaWVsZC51bml2ZXJzYWw=\
+5-4\
+?????\
+5-5\
+QzUtNTtmb3VuZGF0aW9uLmdyYW5pdGU7YXVyYS5oZWFydHN0b3BwZXI7YXVyYS51bmhvbHk7YXJtb3IucmVmaW5lZDtyZXNpc3RhbmNlLmVsZW1lbnRhbDtzaGllbGQudW5pdmVyc2FsO3N0ZWluaS5jaGFpbmVkLmJhbGw7YXR0YWNrLnNwYXJrO3N0cmlrZS5wbGFubmVkO2F0dGFjay5leGVjdXRpb247YXR0YWNrLnNwZWVkO2ZvY3VzLm5ldXRyYWw7dGFzdGUubmF0dXJlO3Rhc3RlLmRhcmtuZXNzO2VuZXJneS5iYXNpYw==\
+5-6\
+YzUtNiBoYXJkO3JlZ2VuZXJhdGlvbi5yZWxhdGl2ZTtnaWZ0LmZvcmVzdDtnaWZ0LmRlc2VydDthdXJhLnVuaG9seTthdXJhLmZyb3N0O2F1cmEuaGVhcnRzdG9wcGVyO2ZvdW5kYXRpb24uZ3Jhbml0ZTtmb3VuZGF0aW9uLmRpYW1vbmQ7cmVzaXN0YW5jZS5lbGVjdHJpY2l0eTtyZXNpc3RhbmNlLmZpcmU7cmVzaXN0YW5jZS5lYXJ0aDtyZXNpc3RhbmNlLmVsZW1lbnRhbDtzaGVsbC5maXJlO3NoZWxsLmVsZWN0cmljaXR5O3NoZWxsLmVhcnRoO2RlZmVuc2UuZGFpZ29wYXJyeTtmb3VuZGF0aW9uLnN0ZWVsO2V4Y2hhbmdlLmZpcmU7ZXhjaGFuZ2UuZWFydGg7ZXhjaGFuZ2UuZWxlY3RyaWNpdHk=\
+\
+6-1\
+YzYtMTtzaGllbGQuYmFzaWM7Zm91bmRhdGlvbi5kaWFtb25kO3NoZWxsLmFpcjtyZXNpc3RhbmNlLmVsZW1lbnRhbDtleGNoYW5nZS5haXI7cmVzaXN0YW5jZS5maXJlO2JhcnJpZXIuZmlyZTtmb3VuZGF0aW9uLm1hZ21hO3Jlc2lzdGFuY2UuYWJzLmFpcg==\
+
+
