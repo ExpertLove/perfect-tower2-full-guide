@@ -23,7 +23,7 @@ ____
 * [Power Stone requirement](#power-stone-requirement)
 * [Infinity push and farm blueprints](#infinity-push-and-farm-blueprints)
 * [How to get infinity](#how-to-get-infinity)
-* \
+* 
 * [All challenge (no hard) solution](#all-challenge-no-hard)
 * [All challenge HARD](https://github.com/Blueturbo47/bluecats-PerfectTower2-comp./blob/main/Challenges/Hardmode/Pre%20Era/README.md)
 * [Adventure Guide](#adventure-guide)
