@@ -17,6 +17,7 @@ ____
 * [Universal experiment solution](#universal-experiment-solution)
 * [Power Plant guide](#power-plant-guide)
 * [100b waves Guide](#100b-waves-guide)
+* * [MT 1](#mt1)
  ____
 ## Lab prestige list
 Fire: one of each then heaters  
@@ -34,6 +35,7 @@ Exotic: things to get more resources for donuts, maybe the red donut for automat
   
 [(GO HOME)](#all-links-compendium) 
 
+## MT 1
 ## Full achievement list
 (by BudeBoy) \
 first box is name, 2nd is how to get it  
