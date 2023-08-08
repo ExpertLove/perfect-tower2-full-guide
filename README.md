@@ -2,30 +2,31 @@
 ## EVERYTHING will be here!
 big thanks for all content and tips: WootImNoob, d0sboots, Tak, bluecat, BöshiBöshi, Nessl0w BudEBoy and some more cool people $)
 ____
-#### All Links compendium:
+#### Best Links compendium:
 * [>>Official Discord server<<](https://discord.gg/fireswordstudios)
 * [>>Perfect Tower 2 WIKI<<](https://www.perfecttower2.com/wiki/Main_Page)
-* [>>BEST AI SCRIPTS LINK (miner, factory, museum)<<](https://github.com/d0sboots/PerfectTower#turbo-exec-v22)
+* [>>BEST AI SCRIPTS LINK (miner, factory, museum whaghhh!)<<](https://github.com/d0sboots/PerfectTower#turbo-exec-v22)
 * [>>My New Video Guide<<](https://youtu.be/8pZG0Ws0zgg)
 #### Content:
+* [Flying Monkey script](#flying-monkey-script)
 * [Lab prestige list](#lab-prestige-list)
 * [All module list](https://www.perfecttower2.com/wiki/Modules)
 * [Full artifact list](#full-artifact-list)
 * [Full achievement list](#full-achievement-list)
-* [Power Stone requirement](#power-stone-requirement)
-* [Adventure Guide](#adventure-guide)
 * [Military Perks Guide](#military-perks-guide)
 * [Universal experiment solution](#universal-experiment-solution)
+* [Nature Experiment All modules](#nature-experiment-solution)
 * [Power Plant guide](#power-plant-guide)
 * [100b waves Guide](#100b-waves-guide)
-* [Flying Monkey script](#flying-monkey-script)
-* [Nature Experiment All modules](#nature-experiment-solution)
 * [100B Blueprint](#100b-blueprint)
 * [90/90 era/inf blueprint](#all-era-and-inf-blueprint)
+* [Power Stone requirement](#power-stone-requirement)
 * [Infinity push and farm blueprints](#infinity-push-and-farm-blueprints)
 * [How to get infinity](#how-to-get-infinity)
+* \
 * [All challenge (no hard) solution](#all-challenge-no-hard)
 * [All challenge HARD](https://github.com/Blueturbo47/bluecats-PerfectTower2-comp./blob/main/Challenges/Hardmode/Pre%20Era/README.md)
+* [Adventure Guide](#adventure-guide)
  ____
 ## Lab prestige list
 Fire: one of each then heaters  
