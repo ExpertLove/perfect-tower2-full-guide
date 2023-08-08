@@ -21,7 +21,7 @@ ____
 * [Flying Monkey script](#flying-monkey-script)
 * [Nature Experiment All modules](#nature-experiment-solution)
 * [100B Blueprint](#100b-blueprint)
-* [90/90 era/inf blueprint](#90/90-era/inf-blueprint)
+* [90/90 era/inf blueprint](#90/90-blueprint)
 * [Infinity push and farm blueprints](#infinity-push-and-farm-blueprints)
 * [How to get infinity](#how-to-get-infinity)
 * [All challenge (no hard) solution](#all-challenge-no-hard)
@@ -210,7 +210,8 @@ https://drive.google.com/file/d/1VVZd32hNj6bcfHXToVKsX8lIBKoD-ORr/view?usp=shari
 ## 100B Blueprint
 For first beat 100b wave:
 
-## 90/90 era/inf blueprint
+## 90/90 blueprint
+For all regions and diff to era/inf 90/90
 
 ## Infinity push and farm blueprints
 
