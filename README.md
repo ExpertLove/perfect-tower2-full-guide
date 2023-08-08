@@ -47,7 +47,7 @@ Universal: inversion orb then more bounces then the other unique things then mor
 Gems: 0.5 more dust per second per level of grinder then more seconds on grinder  
 Exotic: things to get more resources for donuts, maybe the red donut for automation, all else matters not.  
   
-[(GO HOME)](#all-links-compendium) 
+[(GO HOME)](#content) 
 
 ## Full achievement list
 (by BudeBoy) \
