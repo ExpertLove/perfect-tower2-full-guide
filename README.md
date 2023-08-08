@@ -24,7 +24,7 @@ ____
 * [90/90 era/inf blueprint](#90/90-era/inf-blueprint)
 * [Infinity push and farm blueprints](#infinity-push-and-farm-blueprints)
 * [How to get infinity](#how-to-get-infinity)
-* [All challenge (no hard) solution](#all-challenge-(no hard)-solution)
+* [All challenge (no hard) solution](#all-challenge-no-hard)
 * [All challenge HARD](https://github.com/Blueturbo47/bluecats-PerfectTower2-comp./blob/main/Challenges/Hardmode/Pre%20Era/README.md)
  ____
 ## Lab prestige list
@@ -224,7 +224,7 @@ Step 5: Get to mt13 and get the new software and the anvil perk, you no longer n
 Step 6: After you get to mt14 (ten regions to infinity 1 and infinity 5 in one place) get all regions and difficulties to inf 1 to take full advantage of era horizon & era tunneling.\
 Step 7: Now you are in mt15
 
-## All challenge (no hard) solution
+## All Challenge no hard
 (need ~600% nature on museum and divide damage in Power Plant floor 2)\
 (sometimes need to turn off wave streaming)\
 **FOREST**\
