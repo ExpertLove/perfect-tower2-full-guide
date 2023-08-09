@@ -105,7 +105,7 @@ first box is the artifact name, 2nd is how to get it, 3rd is what it does \
 16 - Energy Sphere - from killing Cylindro, unknown drop chance (likely 10%) - unlocks the "Energy Sphere" module\
 17 - Carrot - from region 3, click on the snowman's nose a few times - +10% resources per artifact researched\
 18 - Book of Cubimas  - from completing the winder event - +5% resource drops\
-19 - Kat's Eye - click on Dark Knight in Dark Realm - +100% Town XP on Town Level 1,bonus decreases as town level increases, +5% Town XP on max Town Level\
+19 - Kat's Eye - click on Dark Knight in Dark Realm - +100% Town XP on Town Level 1,bonus decreases as town level increases, +5% Town XP on max Town Level
   
 [(GO HOME)](#content)  
 
